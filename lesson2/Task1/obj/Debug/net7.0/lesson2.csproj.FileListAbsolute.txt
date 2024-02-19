@@ -1,0 +1,14 @@
+D:\YandexDisk\Конспекты\c#\csharp\lesson2\bin\Debug\net7.0\lesson2.exe
+D:\YandexDisk\Конспекты\c#\csharp\lesson2\bin\Debug\net7.0\lesson2.deps.json
+D:\YandexDisk\Конспекты\c#\csharp\lesson2\bin\Debug\net7.0\lesson2.runtimeconfig.json
+D:\YandexDisk\Конспекты\c#\csharp\lesson2\bin\Debug\net7.0\lesson2.dll
+D:\YandexDisk\Конспекты\c#\csharp\lesson2\bin\Debug\net7.0\lesson2.pdb
+D:\YandexDisk\Конспекты\c#\csharp\lesson2\obj\Debug\net7.0\lesson2.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\Конспекты\c#\csharp\lesson2\obj\Debug\net7.0\lesson2.AssemblyInfoInputs.cache
+D:\YandexDisk\Конспекты\c#\csharp\lesson2\obj\Debug\net7.0\lesson2.AssemblyInfo.cs
+D:\YandexDisk\Конспекты\c#\csharp\lesson2\obj\Debug\net7.0\lesson2.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Конспекты\c#\csharp\lesson2\obj\Debug\net7.0\lesson2.dll
+D:\YandexDisk\Конспекты\c#\csharp\lesson2\obj\Debug\net7.0\refint\lesson2.dll
+D:\YandexDisk\Конспекты\c#\csharp\lesson2\obj\Debug\net7.0\lesson2.pdb
+D:\YandexDisk\Конспекты\c#\csharp\lesson2\obj\Debug\net7.0\lesson2.genruntimeconfig.cache
+D:\YandexDisk\Конспекты\c#\csharp\lesson2\obj\Debug\net7.0\ref\lesson2.dll
