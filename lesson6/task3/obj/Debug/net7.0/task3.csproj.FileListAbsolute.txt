@@ -1,0 +1,14 @@
+D:\YandexDisk\Конспекты\c#\csharp\lesson6\task3\bin\Debug\net7.0\task3.exe
+D:\YandexDisk\Конспекты\c#\csharp\lesson6\task3\bin\Debug\net7.0\task3.deps.json
+D:\YandexDisk\Конспекты\c#\csharp\lesson6\task3\bin\Debug\net7.0\task3.runtimeconfig.json
+D:\YandexDisk\Конспекты\c#\csharp\lesson6\task3\bin\Debug\net7.0\task3.dll
+D:\YandexDisk\Конспекты\c#\csharp\lesson6\task3\bin\Debug\net7.0\task3.pdb
+D:\YandexDisk\Конспекты\c#\csharp\lesson6\task3\obj\Debug\net7.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\Конспекты\c#\csharp\lesson6\task3\obj\Debug\net7.0\task3.AssemblyInfoInputs.cache
+D:\YandexDisk\Конспекты\c#\csharp\lesson6\task3\obj\Debug\net7.0\task3.AssemblyInfo.cs
+D:\YandexDisk\Конспекты\c#\csharp\lesson6\task3\obj\Debug\net7.0\task3.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Конспекты\c#\csharp\lesson6\task3\obj\Debug\net7.0\task3.dll
+D:\YandexDisk\Конспекты\c#\csharp\lesson6\task3\obj\Debug\net7.0\refint\task3.dll
+D:\YandexDisk\Конспекты\c#\csharp\lesson6\task3\obj\Debug\net7.0\task3.pdb
+D:\YandexDisk\Конспекты\c#\csharp\lesson6\task3\obj\Debug\net7.0\task3.genruntimeconfig.cache
+D:\YandexDisk\Конспекты\c#\csharp\lesson6\task3\obj\Debug\net7.0\ref\task3.dll
